@@ -34,4 +34,7 @@ Welcome to my Github! I'm a Full-Stack Web Engineer with a passion for building 
 
 ### :minidisc: Data
   <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/POSTGRESQL.png" alt="POSTGRESQL" height="32" style="margin: '0px 4px'"/>
+  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/MARIADB.png" alt="MARIADB" height="32" style="margin: '0px 4px'"/>
+  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/MYSQL.png" alt="MYSQL" height="32" style="margin: '0px 4px'"/>
+
 <hr/>
