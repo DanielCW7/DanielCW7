@@ -1,15 +1,3 @@
-# dwilson
+# Daniel C. Wilson
 
-asr
-fgaerf
-gbaedr
-fbgaed
-rtba
-edrb
-aerb
-eadrt
-aedt
-gbrdtfghbsrftydrysthsetb
-aedtrb
-aet
-b
+### Welcome to my Github! I'm a Full-Stack Web Engineer with a passion for building things and getting creative! I love solving problems and being part of a good team. If you want to collaborate, please do not hesitate to reach out!
