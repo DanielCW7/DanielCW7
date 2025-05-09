@@ -4,14 +4,34 @@ Welcome to my Github! I'm a Full-Stack Web Engineer with a passion for building 
 
 <hr/>
 
-## Tech stack :microscope:
+## :microscope: Tech stack
 
-### General purpose languages :wrench:
+### :wrench: General purpose
+<div style="display: flex row wrap;">
+  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/JAVASCRIPT.png" alt="JAVASCRIPT" height="32" style="margin: '0px 4px'"/>
+  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/RUST.png" alt="RUST" height="32" style="margin: '0px 4px'"/>
+  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/WORDPRESS.png" alt="WORDPRESS" height="32" style="margin: '0px 4px'"/>
+  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/TS.png" alt="TYPESCRIPT" height="32" style="margin: '0px 4px'"/>
+
+</div>
 
 ### Frontend :tv:
+<div style="display: flex row wrap;">
+  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/HTML.png" alt="HTML" height="32" style="margin: '0px 4px'"/>
+  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/CSS.png" alt="CSS" height="32" style="margin: '0px 4px'"/>
+  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/REACT.png" alt="REACT" height="32" style="margin: '0px 4px'"/>
+  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/TAILWIND.png" alt="TAILWIND" height="32" style="margin: '0px 4px'"/>
+  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/BOOTSTRAP.png" alt="BOOTSTRAP" height="32" style="margin: '0px 4px'"/>
+  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/SVELTE.png" alt="SVELTE" height="32" style="margin: '0px 4px'"/>
 
-### Backend :satellite:
+</div>
 
-### Data :minidisc:
+### :satellite: Backend
+<div style="display: flex row wrap;">
+  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/NODE.png" alt="NODE" height="32" style="margin: '0px 4px'"/>
+  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/EXPRESS.png" alt="EXPRESS" height="32" style="margin: '0px 4px'"/>
+</div>
 
+### :minidisc: Data
+  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/POSTGRESQL.png" alt="POSTGRESQL" height="32" style="margin: '0px 4px'"/>
 <hr/>
