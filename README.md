@@ -15,7 +15,7 @@ Welcome to my Github! I'm a Full-Stack Web Engineer with a passion for building 
 
 </div>
 
-### Frontend :tv:
+### :tv: Frontend
 <div style="display: flex row wrap;">
   <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/HTML.png" alt="HTML" height="32" style="margin: '0px 4px'"/>
   <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/CSS.png" alt="CSS" height="32" style="margin: '0px 4px'"/>
