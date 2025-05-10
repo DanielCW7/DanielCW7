@@ -39,3 +39,10 @@ Welcome to my Github! I'm a Full-Stack Web Engineer with a passion for building 
   <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/MARIADB.png" alt="MARIADB" height="32" style="margin: '0px 4px'"/>
 </div>
 <hr/>
+
+<a href="https://github.com/danielcw7/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=danielcw7&theme=dracula" />
+</a>
+<a href="https://github.com/danielcw7/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielcw7&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+</a>
