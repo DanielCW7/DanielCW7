@@ -8,35 +8,35 @@ Welcome to my Github! I'm a Full-Stack Web Engineer with a passion for building 
 
 ### :wrench: General purpose
 <div style="display: flex row wrap;">
-  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/JAVASCRIPT.png" alt="JAVASCRIPT" height="32" style="margin: '0px 4px'"/>
-  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/RUST.png" alt="RUST" height="32" style="margin: '0px 4px'"/>
-  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/WORDPRESS.png" alt="WORDPRESS" height="32" style="margin: '0px 4px'"/>
-  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/TS.png" alt="TYPESCRIPT" height="32" style="margin: '0px 4px'"/>
+  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/JAVASCRIPT.png" alt="JAVASCRIPT" style="margin: '0px 4px'; height: 40px"/>
+  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/RUST.png" alt="RUST" style="margin: '0px 4px'; height: 40px"/>
+  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/WORDPRESS.png" alt="WORDPRESS" style="margin: '0px 4px'; height: 40px"/>
+  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/TS.png" alt="TYPESCRIPT" style="margin: '0px 4px'; height: 40px"/>
 
 </div>
 
 ### :tv: Frontend
 <div style="display: flex row wrap;">
-  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/HTML.png" alt="HTML" height="32" style="margin: '0px 4px'"/>
-  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/CSS.png" alt="CSS" height="32" style="margin: '0px 4px'"/>
-  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/REACT.png" alt="REACT" height="32" style="margin: '0px 4px'"/>
-  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/TAILWIND.png" alt="TAILWIND" height="32" style="margin: '0px 4px'"/>
-  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/BOOTSTRAP.png" alt="BOOTSTRAP" height="32" style="margin: '0px 4px'"/>
-  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/SVELTE.png" alt="SVELTE" height="32" style="margin: '0px 4px'"/>
+  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/HTML.png" alt="HTML" style="margin: '0px 4px'; height: 40px"/>
+  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/CSS.png" alt="CSS" style="margin: '0px 4px'; height: 40px"/>
+  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/REACT.png" alt="REACT" style="margin: '0px 4px'; height: 40px"/>
+  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/TAILWIND.png" alt="TAILWIND" style="margin: '0px 4px'; height: 40px"/>
+  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/BOOTSTRAP.png" alt="BOOTSTRAP" style="margin: '0px 4px'; height: 40px"/>
+  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/SVELTE.png" alt="SVELTE" style="margin: '0px 4px'; height: 40px"/>
 
 </div>
 
 ### :satellite: Backend
 <div style="display: flex row wrap;">
-  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/NODE.png" alt="NODE" height="32" style="margin: '0px 4px'"/>
-  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/EXPRESS.png" alt="EXPRESS" height="32" style="margin: '0px 4px'"/>
+  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/NODE.png" alt="NODE" style="margin: '0px 4px'; height: 40px"/>
+  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/EXPRESS.png" alt="EXPRESS" style="margin: '0px 4px'; height: 40px"/>
 </div>
 
 ### :minidisc: Data
 <div style="display: flex row wrap;">
-  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/POSTGRESQL.png" alt="POSTGRESQL" height="32" style="margin: '0px 4px'"/>
-  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/MYSQL.png" alt="MYSQL" height="32" style="margin: '0px 4px'"/>
-  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/MARIADB.png" alt="MARIADB" height="32" style="margin: '0px 4px'"/>
+  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/POSTGRESQL.png" alt="POSTGRESQL" style="margin: '0px 4px'; height: 40px"/>
+  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/MYSQL.png" alt="MYSQL" style="margin: '0px 4px'; height: 40px"/>
+  <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/MARIADB.png" alt="MARIADB" style="margin: '0px 4px'; height: 40px"/>
 </div>
 <hr/>
 
