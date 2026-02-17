@@ -5,32 +5,19 @@ Welcome to my Github! I'm a Full-Stack Web Engineer with a passion for building 
 <hr/>
 
 ## :microscope: Tech stack
-
-### :wrench: General purpose
 <div style="display: flex row wrap;">
   <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/JAVASCRIPT.png" alt="JAVASCRIPT" style="margin: '0px 4px'; height: 40px"/>
   <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/RUST.png" alt="RUST" style="margin: '0px 4px'; height: 40px"/>
   <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/WORDPRESS.png" alt="WORDPRESS" style="margin: '0px 4px'; height: 40px"/>
   <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/TS.png" alt="TYPESCRIPT" style="margin: '0px 4px'; height: 40px"/>
-
-</div>
-
-### :tv: Frontend
-<div style="display: flex row wrap;">
   <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/HTML.png" alt="HTML" style="margin: '0px 4px'; height: 40px"/>
   <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/CSS.png" alt="CSS" style="margin: '0px 4px'; height: 40px"/>
   <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/REACT.png" alt="REACT" style="margin: '0px 4px'; height: 40px"/>
   <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/TAILWIND.png" alt="TAILWIND" style="margin: '0px 4px'; height: 40px"/>
   <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/BOOTSTRAP.png" alt="BOOTSTRAP" style="margin: '0px 4px'; height: 40px"/>
   <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/SVELTE.png" alt="SVELTE" style="margin: '0px 4px'; height: 40px"/>
-
-</div>
-
-### :satellite: Backend
-<div style="display: flex row wrap;">
   <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/NODE.png" alt="NODE" style="margin: '0px 4px'; height: 40px"/>
   <img src="https://raw.githubusercontent.com/DanielCW7/DanielCW7/main/UI/EXPRESS.png" alt="EXPRESS" style="margin: '0px 4px'; height: 40px"/>
-</div>
 
 ### :minidisc: Data
 <div style="display: flex row wrap;">
